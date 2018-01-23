@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/simondiab/daisy/issues"
   },
-  "homepage": "https://github.com/simondiab/daisy#readme"
+  "homepage": "https://github.com/simondiab/daisy#readme",
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  },
+  "dependencies": {
+    "eslint": "^4.16.0",
+    "http": "0.0.0"
+  }
 }
