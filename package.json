@@ -1,0 +1,19 @@
+{
+  "name": "daisy",
+  "version": "1.0.0",
+  "description": "Asteraceae - Bellis perennis",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simondiab/daisy.git"
+  },
+  "author": "Simon Diab",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simondiab/daisy/issues"
+  },
+  "homepage": "https://github.com/simondiab/daisy#readme"
+}
