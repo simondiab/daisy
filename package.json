@@ -17,5 +17,7 @@
   },
   "homepage": "https://github.com/simondiab/daisy#readme",
   "devDependencies": {},
-  "dependencies": {}
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
